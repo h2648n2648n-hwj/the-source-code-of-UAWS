@@ -1,0 +1,12 @@
+algorithm: heft
+wf_path: workflows/SyntheticWorkflows/part_test_300
+wf_number: 2
+arrival_rate: 0.0016666666666666668
+random_seed: 50
+task_order: critical_path
+total_run_time: 0:00:20.134728
+mean_makespan: 5045.896979
+mean_cost: 258.260680
+deadline_success_rate: 0.063788
+budget_success_rate: 0.628445
+both_success_rate: 0.700000

@@ -1,0 +1,34 @@
+algorithm: heft
+wf_path: workflows/SyntheticWorkflows/part_test_100
+wf_number: 10
+arrival_rate: 0.0016667
+random_seed: 42
+task_order: slack
+total_run_time: 0:00:13.475367
+total_workflows: 100
+mean_makespan: 4019.826562
+std_makespan: 4391.588093
+mean_cost: 51.210485
+std_cost: 48.978643
+deadline_success_rate: 1.000000
+budget_success_rate: 0.910000
+both_success_rate: 0.910000
+mean_resource_utilization: 0.641784
+std_resource_utilization: 0.078146
+
+For paper table:
+deadline_success_rate_percent: 100.00%
+mean_cost: 51.21
+mean_resource_utilization_percent: 64.18%
+
+Episode details:
+episode 1: cost=58.47, deadline_success=100.00%, utilization=67.71%, workflows=10
+episode 2: cost=53.42, deadline_success=100.00%, utilization=67.86%, workflows=10
+episode 3: cost=47.32, deadline_success=100.00%, utilization=68.68%, workflows=10
+episode 4: cost=49.21, deadline_success=100.00%, utilization=67.04%, workflows=10
+episode 5: cost=67.72, deadline_success=100.00%, utilization=70.63%, workflows=10
+episode 6: cost=34.91, deadline_success=100.00%, utilization=52.39%, workflows=10
+episode 7: cost=30.71, deadline_success=100.00%, utilization=51.10%, workflows=10
+episode 8: cost=73.19, deadline_success=100.00%, utilization=76.97%, workflows=10
+episode 9: cost=56.15, deadline_success=100.00%, utilization=60.17%, workflows=10
+episode 10: cost=41.01, deadline_success=100.00%, utilization=59.22%, workflows=10

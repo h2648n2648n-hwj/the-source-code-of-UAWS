@@ -1,0 +1,34 @@
+algorithm: minmin
+wf_path: workflows/SyntheticWorkflows/part_test_500
+wf_number: 10
+arrival_rate: 0.0016666666666666668
+random_seed: 50
+task_order: rdws default slack
+total_run_time: 0:21:24.525141
+total_workflows: 100
+mean_makespan: 5160.386479
+std_makespan: 4429.407880
+mean_cost: 284.191903
+std_cost: 247.836331
+deadline_success_rate: 1.000000
+budget_success_rate: 0.900000
+both_success_rate: 0.900000
+mean_resource_utilization: 0.679947
+std_resource_utilization: 0.088338
+
+For paper table:
+deadline_success_rate_percent: 100.00%
+mean_cost: 284.19
+mean_resource_utilization_percent: 67.99%
+
+Episode details:
+episode 1: cost=342.38, deadline_success=100.00%, utilization=70.82%, workflows=10
+episode 2: cost=270.04, deadline_success=100.00%, utilization=63.70%, workflows=10
+episode 3: cost=131.02, deadline_success=100.00%, utilization=60.56%, workflows=10
+episode 4: cost=286.44, deadline_success=100.00%, utilization=68.70%, workflows=10
+episode 5: cost=214.94, deadline_success=100.00%, utilization=61.03%, workflows=10
+episode 6: cost=475.51, deadline_success=100.00%, utilization=81.83%, workflows=10
+episode 7: cost=378.56, deadline_success=100.00%, utilization=75.81%, workflows=10
+episode 8: cost=317.15, deadline_success=100.00%, utilization=75.74%, workflows=10
+episode 9: cost=152.05, deadline_success=100.00%, utilization=50.01%, workflows=10
+episode 10: cost=273.82, deadline_success=100.00%, utilization=71.73%, workflows=10
